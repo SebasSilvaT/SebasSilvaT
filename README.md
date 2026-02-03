@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🎓 Software Engineering Student | 💻 Full Stack Developer | 📊 Data & System Enthusiast
+  🎓 Software Engineering Student (8th cycle completed) | 💻 Frontend & Full Stack Junior | 📊 Data & Systems Enthusiast
 </h3>
 
 ---
@@ -11,19 +11,19 @@
 ### 🧩 About Me  
 
 <p align="left">
-🚀 Passionate about developing scalable software and data-driven solutions that create real impact.<br>
-🎓 Currently an 8th-cycle Software Engineering student at Universidad Peruana de Ciencias Aplicadas (UPC).<br>
-💡 Experience in web development (Front-End & Back-End), following Domain-Driven Design (DDD) and best practices.<br>
+🚀 Software Engineering student with hands-on experience in web development and technology projects.<br>
+🎓 Currently in my 8th cycle of Software Engineering at Universidad Peruana de Ciencias Aplicadas (UPC).<br>
+💻 Experience building Frontend and Full Stack web applications using modern frameworks and REST APIs.<br>
 📊 Intermediate knowledge of <b>SQL</b> and <b>Power BI</b> for data analysis and visualization.<br>
-🏦 Interested in applying technology to financial innovation, digital transformation, and analytics.<br>
-🤝 Recognized for teamwork, leadership, and a commitment to continuous learning.
+🏦 Strong interest in applying technology to financial analysis, digital transformation, and decision-making.<br>
+🤝 Recognized for teamwork, leadership (class delegate multiple times), and continuous learning mindset.
 </p>
 
 ---
 
 ### 🛠️ Technical Skills  
 
-#### 💻 Languages  
+#### 💻 Programming Languages  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -35,8 +35,8 @@
 ---
 
 #### 🎨 Front-End Development  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,9 +46,9 @@
 ---
 
 #### 🧩 Back-End Development  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
@@ -64,36 +64,26 @@
 #### ☁️ Cloud, Tools & Platforms  
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
-#### 🧠 Software Architecture & Quality  
-- Experience with **Domain-Driven Design (DDD)** and basic **Microservices** architecture.  
-- Familiar with **design patterns** such as Singleton, Factory, Repository, and MVC.  
-- Implementation of **unit and integration testing** to ensure software reliability.  
-- Focused on writing clean, maintainable, and efficient code.  
-
----
-
-#### 🧰 Other Tools  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+#### 🧠 Architecture, Quality & Methodologies  
+- Experience applying **Domain-Driven Design (DDD)** and MVC principles in academic and practical projects.  
+- Basic knowledge of **Microservices** architecture and RESTful APIs.  
+- Implementation of **unit and integration testing**.  
+- Experience working with **Agile methodologies (Scrum)** in team-based projects.  
+- Focus on clean code, maintainability, and continuous improvement.
 
 ---
 
 ### 📈 Currently Working On  
-- Enhancing my Power BI and SQL skills for data analytics and visualization.  
-- Building new web projects applying DDD and clean architecture principles.  
-- Preparing for my professional internship experience in 2026.
+- Strengthening my **SQL and Power BI** skills for data analysis and reporting.  
+- Building web projects with modern Frontend frameworks and clean architecture principles.  
+- Preparing for professional internship opportunities in technology, data, or systems roles.
 
 ---
 
-<h3 align="center">✨ “Code with purpose. Learn with curiosity. Build with impact.” ✨</h3>
+<h3 align="center">✨ “Learn continuously, build responsibly, and create value through technology.” ✨</h3>
